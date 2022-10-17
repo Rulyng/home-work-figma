@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  min-width: 400px;
+}
+
+.container {
+  max-width: 970px;
+  margin: 0 auto;
+}
+
+.navigation {
+  padding-bottom: 12px;
+}
+
+.nav__containe {
+  max-width: 1440px;
+}
+
+.about-me, .portfolio{
+    background: #F6F6F6;
+}
+
+.contacts{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
